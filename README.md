@@ -12,8 +12,10 @@ This is our old method of sending spoofed emails, but we are no longer supportin
 
 ## How to use
 First you will need to find a web host supporting SMTP.
-'''Support SSL SMTP: my.a2hosting.com'''
-'''Support SSL SMTP: inmotionhosting.com'''
+
+```Support SSL SMTP: my.a2hosting.com```
+
+```Support SSL SMTP: inmotionhosting.com```
 
 
 
