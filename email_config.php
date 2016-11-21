@@ -1,14 +1,14 @@
 <?php
 
-define("HOST","a2plcpnl0799.prod.iad2.secureserver.net"); 
+define("HOST","web server here"); 
 
-define("EMAIL","fakersent@glock9-savage.com"); 
+define("EMAIL","custom email"); 
 
 define("PASSWORD","password"); 
 
 define("PORT","465"); 
 
-define("LINK", "http://tinyurl.snovabits.net/h3a7fp"); 
+define("LINK", "http://linkhere.com); 
 
 ?>
 
