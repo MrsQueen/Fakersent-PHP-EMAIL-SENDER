@@ -32,9 +32,9 @@ This one of the most simpliest things to do, all you have to do is copy and past
 
 ```php
 <?php
-define("HOST","web server here"); [INCOMING SERVER]
-define("EMAIL","custom email"); [USERNAME]
-define("PASSWORD","password"); [PASSWORD]
+define("HOST","web server here"); --- [INCOMING SERVER]
+define("EMAIL","custom email"); --- [USERNAME]
+define("PASSWORD","password"); --- [PASSWORD]
 define("PORT","465"); [PORT]
 define("LINK", "http://linkhere.com); [PHISHING LINK]
 ?>
