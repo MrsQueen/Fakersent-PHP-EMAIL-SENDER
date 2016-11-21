@@ -1,7 +1,8 @@
 # Installation & loading
 
-Fakersent PHPMailer does not use a custom email. (EX: support@icloud.com) like #Fakersent does.
-This is just a email sender, we made some time ago and don't support anymore. So thought it would be nice to share with some others as it still works, all emails hitting inbox. 
+Fakersent PHPMailer does not use a custom email (EX: support@icloud.com) like #Fakersent does.
+It uses your email you have created in such places as cpanel but changes the name to (FindMyiPhone) 
+This is just a email sender, we made some time ago and don't support anymore. So thought it would be nice to share with some others as it still works, and hitting all emails inbox. 
 
 ```json
 "phpmailer/phpmailer": "~5.2"
