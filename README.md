@@ -19,14 +19,9 @@ First you will need to find a web host supporting SMTP.
 
 Second you will need to create a custom email. You can do this in Cpanel just find [Email Accounts]
 * Create email account (name@yourdoamin.com)
+
 *Now at the end there should be some icons, find [Configurate Email CLient]
-*Should find something like -Manuel Settings
 
+*Should find something like - Manuel Settings
 
-or
-
-```sh
-composer require phpmailer/phpmailer
-```
-
-If you want to use the Gmail XOAUTH2 authentication class, you will also need to add a dependency on the `league/oauth2-client` package.
+![Settings](http://fakersent.com/1.png)
