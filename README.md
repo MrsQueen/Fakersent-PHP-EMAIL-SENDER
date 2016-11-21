@@ -41,4 +41,8 @@ define("LINK", "http://linkhere.com); [PHISHING LINK]
 ```
 Now click save and your all done.
 
-## Now it is time to test your #Fakersent PHP Email Sender
+## Error mean SMTP not open
+
+If you come accross this error after testing your sender, then you webhost port is wrong or not open.
+
+```Message could not be sent.Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting```
