@@ -2,13 +2,20 @@
 
 Fakersent PHPMailer does not use a custom email like #Fakersent does.
 ```Custom email: support@icloud.com```
-It will use the email of whatever smtp info you add to the .Config file.
+It will use the email of whatever SMTP settings you add to the .config file.
 
 ## Why ?
 Because, php mailer is something free.
 It uses your email's SMTP settings you can create in such places as cpanel. PHP Mailer changes the name to (FindMyiPhone) and sends the victim whatever you input in the blanks, along with the old map template.
 
-This is just a email sender, we made some time ago and don't sand usesupport anymore. So thought it would be nice to share with some others as it still works, and hitting all emails inbox. 
+This is our old method of sending spoofed emails, but we are no longer supporting. So thought it would be nice to share with some others as it still works, and hitting all emails inbox. 
+
+## How to use
+First you will need to find a web host supporting SMTP.
+'''Support SSL SMTP: my.a2hosting.com'''
+'''Support SSL SMTP: inmotionhosting.com'''
+
+
 
 ```json
 "phpmailer/phpmailer": "~5.2"
