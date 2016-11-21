@@ -1,6 +1,7 @@
 # Installation & loading
 
-Fakersent PHPMailer is available via [Composer/Packagist](https://packagist.org/packages/phpmailer/phpmailer) (using semantic versioning), so just add this line to your `composer.json` file:
+Fakersent PHPMailer does not user custom email. EX: support@icloud.com
+This free email sender uses your custom email's SMTP settings this can be found in your webhost cpanel.
 
 ```json
 "phpmailer/phpmailer": "~5.2"
