@@ -39,4 +39,6 @@ define("PORT","465"); [PORT]
 define("LINK", "http://linkhere.com); [PHISHING LINK]
 ?>
 ```
+Now click save and your all done.
 
+## Testing Fakersent PHP Mailer
