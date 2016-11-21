@@ -17,11 +17,11 @@ First you will need to find a web host supporting SMTP.
 
 ```Support SSL SMTP: inmotionhosting.com```
 
+Second you will need to create a custom email. You can do this in Cpanel just find [Email Accounts]
+* Create email account (name@yourdoamin.com)
+*Now at the end there should be some icons, find [Configurate Email CLient]
+*Should find something like -Manuel Settings
 
-
-```json
-"phpmailer/phpmailer": "~5.2"
-```
 
 or
 
