@@ -41,7 +41,7 @@ define("LINK", "http://linkhere.com); [PHISHING LINK]
 ```
 Now click save and your all done.
 
-## Error mean SMTP not open
+## What does this error mean ?
 
 If you come accross this error after testing, then your webhost's SMTP port is wrong or not open.
 
