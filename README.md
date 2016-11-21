@@ -41,4 +41,4 @@ define("LINK", "http://linkhere.com); [PHISHING LINK]
 ```
 Now click save and your all done.
 
-## Testing Fakersent PHP Mailer
+## Now it is time to test your #Fakersent PHP Email Sender
