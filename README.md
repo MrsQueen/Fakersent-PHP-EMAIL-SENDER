@@ -2,6 +2,7 @@
 
 Fakersent PHPMailer does not use a custom email like #Fakersent does.
 ```Custom email: support@icloud.com```
+It will use the email of whatever smtp info you add to the .Config file.
 
 ## Why ?
 Because, php mailer is something free.
