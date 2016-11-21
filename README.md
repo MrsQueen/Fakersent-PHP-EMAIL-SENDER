@@ -24,4 +24,4 @@ Second you will need to create a custom email. You can do this in Cpanel just fi
 
 *Should find something like - Manuel Settings
 
-![Settings](http://fakersent.com/1.png)
+![Settings](http://fakersent.com/22.PNG)
