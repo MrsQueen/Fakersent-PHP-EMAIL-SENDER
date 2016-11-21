@@ -43,6 +43,6 @@ Now click save and your all done.
 
 ## Error mean SMTP not open
 
-If you come accross this error after testing your sender, then you webhost port is wrong or not open.
+If you come accross this error after testing, then your webhost's SMTP port is wrong or not open.
 
 ```Message could not be sent.Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting```
